@@ -1,5 +1,5 @@
 # Basic Sample Hardhat Project
-#The Big Scoop Token
+# The Big Scoop Token
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deplohys that contract, and an example of a task implementation, which simply list the available accounts.
 
